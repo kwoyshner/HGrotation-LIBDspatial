@@ -1,6 +1,9 @@
 ###Test spatial pipeline###
 #  following: https://lmweber.org/OSTA-book/analysis-steps.html#load-data
 
+## TEST TEST
+
+
 ## install and load packages
 if (!requireNamespace("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
